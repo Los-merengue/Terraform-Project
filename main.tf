@@ -1,7 +1,7 @@
 provider "aws"{
     region = "us-east-1"
-    access_key = "AKIA2WNT522GMGTFHVE5"
-    secret_key = "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"
+    access_key = "AKIA2WNT522GFDZTBJIN"
+    secret_key = "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"
 }
 
 # Create a variable for IP address
