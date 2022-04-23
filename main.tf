@@ -21,7 +21,6 @@ resource "aws_vpc" "first-vpc" {
   }
 }
 
-
 # Create Internet Gateway
 
 resource "aws_internet_gateway" "first-gw" {
