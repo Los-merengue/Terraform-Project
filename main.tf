@@ -1,7 +1,7 @@
 provider "aws"{
     region = "us-east-1"
     access_key = #"AKIA2WNT522GFDZTBJIN"  This security key is outdated
-    secret_key = #"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" 
+    secret_key = #"7FnHtQrRGNNkTjPjDVFDyM7U2FujAbtmuNXXoCfn" This security key is outdated
 }
 
 # Create a variable for IP address
