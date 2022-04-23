@@ -167,7 +167,6 @@ resource "aws_instance" "terraform-server" {
       Name = "Terraform-EC2-Instance"
     }
 
-
 }
 
 output "Public-EIP" {
