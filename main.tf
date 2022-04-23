@@ -1,7 +1,7 @@
 provider "aws"{
     region = "us-east-1"
     access_key = # Input the security access_keys here
-    secret_key = # Input the Secret_access keys here
+    secret_key = # Input the security Secret_access keys here
 
 # Create a variable for IP address
 
