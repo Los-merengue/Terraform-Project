@@ -10,6 +10,7 @@ variable "CIDR"{
 
 }
 
+
 # Create a VPC
 
 resource "aws_vpc" "first-vpc" {
